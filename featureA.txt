@@ -1,3 +1,7 @@
 Login
+<<<<<<< HEAD
 Home
 HotKeys
+=======
+Search Product
+>>>>>>> c79ef74b5a29a7f7b991b2817f5fb98c09b36a7a
